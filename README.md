@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as data engineer in MTN Irancell bigdata<br>👯 I’m looking to collaborate on programming projects and automation<br>🤝 I’m looking for help with learning more about python programming<br>🌱 I’m currently learning python and passionate about working on new projects and challanges
+🔭 I’m currently working as data engineer at MTN Irancell bigdata<br>👯 I’m looking to collaborate on programming projects and automation<br>🤝 I’m looking for help with learning more about python programming<br>🌱 I’m currently learning python and passionate about working on new projects and challanges
 
 
 ## 🌐 Socials:
